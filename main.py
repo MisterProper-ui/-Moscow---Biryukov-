@@ -1,6 +1,5 @@
 def main():
-    print('My first git program')
-    print('And mI change it every day')
+    print('My first git-repo')
 
 
 if __name__ == '__main__':
